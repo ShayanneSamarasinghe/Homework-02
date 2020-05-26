@@ -3,6 +3,7 @@
 .jumbotron{
     margin-bottom: 0px;
     border-radius: 4px;
+    padding-top: 20px;
 }
 
 .img-fluid{
@@ -27,17 +28,43 @@ body{
 }
 
 
-.nav-item{
-    padding-left: 35px;
-    padding-right: 35px;
-}
-
-
 .display-4{
-    font-family: 'Love Ya Like A Sister', cursive;
+    font-family: 'Noto Sans JP', sans-serif;
+   
 }
 
 p{
     font-family: 'Noto Sans JP', sans-serif;
 }
 
+h1{
+    
+    font-family: 'Noto Sans JP', sans-serif;
+    
+}
+
+.card-body{
+    background-color:#ccccff;
+}
+
+.card-title{
+    text-align: center;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.box{
+    padding-bottom: 50px;
+    padding-right: 15px;
+}
+
+.box-2{
+    padding-bottom: 50px;
+
+}
+
+.navbar-expand-lg .navbar-nav .nav-link{
+    padding-right: 4rem;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-weight: 350px;
+
+}
