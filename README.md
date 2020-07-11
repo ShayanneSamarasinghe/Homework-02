@@ -8,7 +8,7 @@ This is a set of web pages that makes up a responsive portfolio site. Inside you
 
 ## Credits
 
-The single credit for the making of this site goes to myself (Shayanne Samarasinge). 
+The single credit for the making of this site goes to myself (Shayanne Samarasinghe). 
 
 
 
