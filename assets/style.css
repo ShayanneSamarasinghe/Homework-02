@@ -4,6 +4,7 @@
     margin-bottom: 0px;
     border-radius: 4px;
     padding-top: 20px;
+    opacity: 0.77;
 }
 
 .img-fluid{
@@ -85,3 +86,5 @@ h1{
     width:27%;
     margin:0 auto;
 }
+
+
