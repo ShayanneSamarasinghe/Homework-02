@@ -71,5 +71,15 @@ h1{
 
 #logo{
     width:  80px;
-    /* height: 80px;
-} */
+    
+} 
+
+.socialTitle{
+    text-align: center;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.socialLine {
+    width:27%;
+    margin:0 auto;
+}
