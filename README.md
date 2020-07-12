@@ -1,10 +1,13 @@
-# Responsive - Portfolio (Homework-02)
+# Updated Portfolio
 
 
 ## Usage 
 
-This is a set of web pages that makes up a responsive portfolio site. Inside you will find a "About" page a "Contact" page and a "Portfolio" page. This is a baseline first attempt at making a responsive site. More to come soon. 
+This is an updated version of my responsive portfolio. My social media and github presence have been added to the site, as well two repos and two links to deployed applications. 
 
+
+## Link
+https://shayannesamarasinghe.github.io/Responsive-Portfolio/
 
 ## Credits
 
