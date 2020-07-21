@@ -14,16 +14,17 @@ var speed = 60;
 
 
 function typeWriter() {
-  if (i < txt.length) {
-    if(txt.charAt(i) === "\"){
-      document.getElementById("indexJumbotron").innerHTML += txt.charAt(i)+txt.charAt(i+1);
-      i+=2
-    }else{
-    document.getElementById("indexJumbotron").innerHTML += txt.charAt(i);
-    i++;
-    
+    if (i < txt.length) {
+      if(txt.charAt(i) === "\"){
+        document.getElementById("indexJumbotron").innerHTML += txt.charAt(i)+txt.charAt(i+1);
+        i+=2
+      }else{
+      document.getElementById("indexJumbotron").innerHTML += txt.charAt(i);
+      i++;
+      
+      }
+    setTimeout(typeWriter, speed);
   }
-  setTimeout(typeWriter, speed);
 }
 
 
