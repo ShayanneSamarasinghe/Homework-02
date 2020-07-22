@@ -3,7 +3,7 @@ var i = 0;
 var txt =  "This is my portfolio ** ** Please check out my group projects ${nutShell} and ${Page Exchange} ** **  "
 var speed = 60;
 var newLine = "<br>"
-var spanOpen =  "<span class='templateLiteral>"
+var spanOpen =  "<span class='templateLiteral'>"
 var spanClose = "</span>"
 var spanOpen2 =  "<span class='array'>"
 var spanClose2 = "</span>"
