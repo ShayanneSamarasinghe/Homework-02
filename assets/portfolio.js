@@ -1,6 +1,6 @@
 
 var i = 0;
-var txt =  "This is my portfolio ** ** Please check out my group projects ${nutShell} and ${Page Exchange} ** **  "
+var txt =  "[This is my portfolio] ** ** Please check out my group projects ${nutShell} and ${Page Exchange} ** **  "
 var speed = 60;
 var newLine = "<br>"
 var spanOpen =  "<span class='templateLiteral'>"
@@ -22,7 +22,7 @@ function typeWriter() {
       i = end;
     }else if (txt.charAt(i) === "["){
       const end= txt.indexOf("]", i) + 1;
-      const span = spanOpen + txt.substring(i, end) + spanClose
+      const span = spanOpen2 + txt.substring(i, end) + spanClose2
       document.getElementById("portfolioJumbotron").innerHTML += span;
       i = end;
     }else{
