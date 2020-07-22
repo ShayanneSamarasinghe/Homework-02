@@ -1,6 +1,6 @@
 
 var i = 0;
-var txt =  "[This is my portfolio] ** ** Please check out my group projects ${nutShell} and ${Page Exchange} ** **  "
+var txt =  "This is my portfolio ** ** Please check out my group projects ${nutShell} and ${Page Exchange} ** ** If you'd like feel free to check out my other projects as well. ** ** You can [click through the repo, watch the demo video or run the application].  "
 var speed = 60;
 var newLine = "<br>"
 var spanOpen =  "<span class='templateLiteral'>"
