@@ -138,7 +138,7 @@ h1{
  .templateLiteral{
     color: rgb(255, 255, 0);
     font-family: 'Anonymous Pro', monospace;
-    font-weight: 900;
+    font-weight: 900 !important;
  }
 
 
@@ -146,6 +146,6 @@ h1{
  .array{
      color:rgb(21, 255, 0);
      font-family: 'Anonymous Pro', monospace;
-     font-weight: 900;
+     font-weight: 900 !important;
  }
 

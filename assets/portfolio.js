@@ -21,7 +21,7 @@ function typeWriter() {
       document.getElementById("portfolioJumbotron").innerHTML += span;
       i = end;
     }else if (txt.charAt(i) === "["){
-      const end= txt.indexOf("]", i) + 1;
+      const end = txt.indexOf("]", i) + 1;
       const span = spanOpen2 + txt.substring(i, end) + spanClose2
       document.getElementById("portfolioJumbotron").innerHTML += span;
       i = end;
