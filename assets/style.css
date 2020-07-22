@@ -7,21 +7,52 @@
     opacity: 0.77;
 }
 
-.img-fluid{
-    border: 1px solid #ddd;
+#ShayannePic{
+    border: 5px solid #ddd;
     border-radius: 4px;
-    padding: 5px;
-    width: 150px;
-    float: left;
-    margin-right: 10px;
-    border-color: black;
-    opacity: 0.8;
+    padding: 6px;
+    width: 275px;
+    margin-right: 44px;
+    border-color: white;
+   
     
-  }
+}
+
+#dogPic{
+    border: 5px solid #ddd;
+    border-radius: 4px;
+    padding: 6px;
+    width: 275px;
+    margin-right: 44px;
+    border-color: white;
+    object-fit: cover;
+   
+
+}
+
+#shywithcamPic{
+    border: 5px solid #ddd;
+    border-radius: 4px;
+    padding: 6px;
+    width: 275px;
+    margin-right: 44px;
+    border-color: white;
+    object-fit: cover;
+   
+
+}
+
+#imgdiv{
+    justify-content: center;
+    margin:0 auto;
+}
+
+
 
 .navbar {
     border-radius: 4px;
     background-color:#ccccff;
+    border-color: white;
 
 }
 
