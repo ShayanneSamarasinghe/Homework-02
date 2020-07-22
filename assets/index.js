@@ -5,8 +5,8 @@ var speed = 60;
 var newLine = "<br>"
 var spanOpen =  "<span class='templateLiteral'>"
 var spanClose = "</span>"
-var spanOpen =  "<span class='array'>"
-var spanClose = "</span>"
+var spanOpen2 =  "<span class='array'>"
+var spanClose2 = "</span>"
 
 
 
@@ -22,7 +22,7 @@ function typeWriter() {
       i = end;
     }else if (txt.charAt(i) === "["){
       const end = txt.indexOf("]", i) + 1;
-      const span = spanOpen + txt.substring(i, end) + spanClose
+      const span = spanOpen2 + txt.substring(i, end) + spanClose2
       document.getElementById("indexJumbotron").innerHTML += span;
       i = end;
     }else{
