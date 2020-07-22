@@ -125,5 +125,37 @@ h1{
 
  #indexJumbotron{
      color: white;
-     font-family: 'Space Mono', monospace;
+     /* font-family: 'Space Mono', monospace; */
+     font-family: 'Anonymous Pro', monospace;
+     
  }
+
+ #portfolioJumbotron{
+    color: white;
+    /* font-family: 'Space Mono', monospace; */
+    font-family: 'Anonymous Pro', monospace;
+    
+ }
+
+ .templateLiteral{
+    color: rgb(255, 255, 0);
+    font-family: 'Anonymous Pro', monospace;
+ }
+
+ .templateLiteral2{
+    color: rgb(255, 255, 0);
+    font-family: 'Anonymous Pro', monospace;
+    font-weight: 900
+ }
+
+ .array{
+     color:rgb(21, 255, 0);
+     font-family: 'Anonymous Pro', monospace;
+     font-weight: 900
+ }
+
+ .array2{
+    color:rgb(21, 255, 0);
+    font-family: 'Anonymous Pro', monospace;
+    font-weight: 900
+}
