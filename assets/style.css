@@ -97,8 +97,9 @@ h1{
 
 .navbar-expand-lg .navbar-nav .nav-link{
     padding-right: 4rem;
-    font-family: 'Noto Sans JP', sans-serif;
-    font-weight: 350px;
+    font-family: 'Anonymous Pro', monospace;
+    font-weight: 400px;
+    font-size: 18px;
 
 }
 
